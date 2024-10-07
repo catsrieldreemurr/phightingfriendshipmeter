@@ -32,7 +32,7 @@ function rnd(){
 gen.onclick = function(){
     let image1 = rnd();
     let image2 = rnd();
-    let friendshipNum = Math.floor(Math.random() * 100);
+    let friendshipNum = Math.floor(Math.random() * 101);
     
     let statusText = [
         "They are inseperable best friends!", //100% 0
